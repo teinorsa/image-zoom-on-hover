@@ -1,0 +1,27 @@
+{
+  "name": "image-zoom-on-hover",
+  "version": "1.0.0",
+  "description": "Zoom images when hovering without the need of a higher resolution",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:teinorsa/image-zoom-on-hover.git",
+    "directory": "packages/name"
+  },
+  "keywords": [
+    "image",
+    "image-zoom",
+    "image-zoom-on-hover",
+    "zoom",
+    "zoom on hover",
+    "image zoom",
+    "zoom without good resolution",
+    "image zoom on hover",
+    "hover",
+    "photo",
+    "photo zoom",
+    "photo zoom on hover",
+    "light"
+  ],
+  "author": "Teinor"
+}
